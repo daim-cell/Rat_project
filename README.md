@@ -6,5 +6,7 @@ Here we implement their approach in python on a dataset from Kaggle called strok
 We also implemented a probabilistic model of neural nets to explain its result using the above-mentioned approach. 
 This was all done in accordance to research aptitude test set up by CureMD (CureMD, n.d.). 
 
-### Original Paper link: https://arxiv.org/pdf/2005.02074.pdf
-### Dataset Link: https://www.kaggle.com/fedesoriano/stroke-prediction-dataset/tasks?taskId=3281
+### Original Paper link: 
+https://arxiv.org/pdf/2005.02074.pdf
+### Dataset Link: 
+https://www.kaggle.com/fedesoriano/stroke-prediction-dataset/tasks?taskId=3281
