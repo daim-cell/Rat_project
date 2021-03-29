@@ -10,6 +10,8 @@ This was all done in accordance to research aptitude test set up by CureMD (Cure
 https://arxiv.org/pdf/2005.02074.pdf
 ### Dataset Link: 
 https://www.kaggle.com/fedesoriano/stroke-prediction-dataset/tasks?taskId=3281
+### Explainatory video Link:
+https://youtu.be/iseGImVwqjs
 
 ## How to run
 1. Clone this repo onto your local machine
