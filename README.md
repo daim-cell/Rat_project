@@ -10,3 +10,14 @@ This was all done in accordance to research aptitude test set up by CureMD (Cure
 https://arxiv.org/pdf/2005.02074.pdf
 ### Dataset Link: 
 https://www.kaggle.com/fedesoriano/stroke-prediction-dataset/tasks?taskId=3281
+
+## How to run
+1. Clone this repo onto your local machine
+2. Run a local server such as Anaconda on your machine
+3. View the code a web browser e.g Google chrome
+
+or
+
+1. Upload the .ipynb file on google colab.
+2. Upload the dataset from the above given dataset link
+3. Run on the google servers and view
